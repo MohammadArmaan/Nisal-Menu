@@ -51,13 +51,13 @@
         border-radius: 10rem;
         display: flex;
         align-items: center;
-        padding-left: 4rem;
+        padding-left: 3rem;
         transition: all 0.3s;
 
       }
 
       .search input {
-        font-size: 1rem;
+        font-size: 1.3rem;
 
       }
 
