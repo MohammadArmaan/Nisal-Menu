@@ -30,10 +30,10 @@ Contributions to the Nisal Menu project are welcome. If you have any ideas, sugg
 
 ## Live Demo
 
-Check out the live demo of the Nisal Menu: [Nisal Menu Live](https://nisalmenu.netlify.app/)
+Check out the live demo of the Nisal Menu: [Nisal Menu](https://nisalmenu.netlify.app/)
 ## Developer
 
-This project is developed by Mohammad Armaan, a passionate web developer with expertise in front-end technologies and a keen interest in creating user-friendly and interactive web applications. You can learn more about him and his work on his [personal website](https://mohammadarmaan.netlify.app/).
+This project is developed by Mohammad Armaan, a passionate web developer with expertise in front-end technologies and a keen interest in creating user-friendly and interactive web applications. You can learn more about him and his work on his [Mohammad Armaan](https://mohammadarmaan.netlify.app/).
 
 ---
 
